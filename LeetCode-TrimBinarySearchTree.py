@@ -6,6 +6,7 @@
 #         self.right = None
 
 
+# Recursive
 class Solution:
     def trimBST(self, root, L, R):
         """
