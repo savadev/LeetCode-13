@@ -1,9 +1,12 @@
+### Change Notes
+- 6/7 moved python files to Python folder
+
 ### Recursive Notes
 
 "To iterate is human, to recurse, divine."
 Speaking of Programming, recursion is possibly one of the most challenging parts to be implemented especially when it comes with some data structures such as linked list.
 
-… To be continued 
+… To be continued
 
 ### SQL Notes
 #### UPDATE
